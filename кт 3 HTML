@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Печеньки</title>
+</head>
+<body>
+<h1>Что нужно для новогодних печенек</h1>
+<h2>Порция на десятерых</h2>
+<section>
+<div class="flexbox">
+<div class="group1">
+<h3>Пшеничная мука</h3>
+<p>220 гр.</p>
+</div>
+<div class="group2">
+<h3>Сливочное масло</h3>
+<p>100 гр.</p>
+</div>
+<div class="group3">
+<h3>Сахар</h3>
+<p>100 гр.</p>
+</div>
+<div class="group4">
+<h3>Куриные яйца</h3>
+<p>1 шт.</p>
+</div>
+<div class="group5">
+<h3>Мёд</h3>
+<p>3 чайн.л.</p>
+</div>
+</div>
+</section>
+<section>
+<div class="grid">
+<div class="group6">
+<h3>Сода</h3>
+<p>0,5 чайн.л.</p>
+</div>
+<div class="group7">
+<h3>Порошок имбиря</h3>
+<p>2 чайн.л.</p>
+</div>
+<div class="group8">
+<h3>Гвоздика</h3>
+<p>0,5 чайн.л.</p>
+</div>
+<div class="group9">
+<h3>Молотая корица</h3>
+<p>1 чайн.л.</p>
+</div>
+<div class="group10">
+<h3>Какао</h3>
+<p>1 чайн.л.</p>
+</div>
+</section>
+</body>
+</html>
